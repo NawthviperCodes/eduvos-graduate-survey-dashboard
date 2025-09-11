@@ -55,7 +55,9 @@ shiny::runApp("app.R")
 2️⃣ Deployed Dashboard
 GitHub Repository: 👉 [GitHub Repo Link Here]
 
-Deployed Dashboard: 👉 https://thuto.shinyapps.io/eduvos-rshiny-dashboard/
+### 2️⃣ Deployed Dashboard  
+- **GitHub Repository:** 👉 [GitHub Repo Link Here]  
+- **Deployed Dashboard:** 👉 [Deployed Dashboard](https://thuto.shinyapps.io/eduvos-rshiny-dashboard/)
 
 📊 Dashboard Features
 Interactive dropdowns to select visualizations

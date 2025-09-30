@@ -1,7 +1,7 @@
 # 📊 Eduvos Graduate Survey Dashboard
 
 👉 **Deployed Dashboard:** [Click Here to View](https://thuto.shinyapps.io/eduvos-rshiny-dashboard/)
-👉 **GitHub Repository:** [Repo Link Here](#) *(replace `#` with your repo URL)*
+👉 **GitHub Repository:** [Repo Link Here](https://github.com/NawthviperCodes/eduvos-graduate-survey-dashboard.git) 
 
 ---
 

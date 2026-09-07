@@ -1,11 +1,11 @@
 # 📊 Eduvos Graduate Survey Dashboard
 
-👉 **Deployed Dashboard:** [Click Here to View](https://thuto.shinyapps.io/eduvos-rshiny-dashboard/)
-👉 **GitHub Repository:** [Repo Link Here](https://github.com/NawthviperCodes/eduvos-graduate-survey-dashboard.git) 
+ **Deployed Dashboard:** [Click Here to View](https://thuto.shinyapps.io/eduvos-rshiny-dashboard/)
+ **GitHub Repository:** [Repo Link Here](https://github.com/NawthviperCodes/eduvos-graduate-survey-dashboard.git) 
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project analyzes **Eduvos Graduate Survey data** to identify the most popular:
 
@@ -28,7 +28,7 @@ Results are delivered in an **interactive R Shiny dashboard**, helping Eduvos al
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **R** (tidyverse, ggplot2, shiny)
 * **R Shiny** (interactive dashboard)
@@ -38,7 +38,7 @@ Results are delivered in an **interactive R Shiny dashboard**, helping Eduvos al
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 eduvos-graduate-survey-dashboard
@@ -51,9 +51,9 @@ eduvos-graduate-survey-dashboard
 
 ---
 
-## 🚀 Running the Project
+##  Running the Project
 
-### 1️⃣ Run Locally
+### 1️ Run Locally
 
 1. Open **RStudio**
 2. Install required packages:
@@ -69,14 +69,14 @@ install.packages(c("shiny", "tidyverse", "ggplot2"))
 shiny::runApp("app.R")
 ```
 
-### 2️⃣ Access Online
+### 2️ Access Online
 
 * **Deployed Dashboard:** [Click Here](https://thuto.shinyapps.io/eduvos-rshiny-dashboard/)
 * **GitHub Repository:** [Repo Link Here](#)
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 * Interactive dropdown filters
 * Top 10 rankings (Languages, Databases, Frameworks, Platforms, AI Tools)
@@ -86,7 +86,7 @@ shiny::runApp("app.R")
 
 ---
 
-## 🔎 Relevance to Mining
+##  Relevance to Mining
 
 This dashboarding approach can be applied to mining for:
 
@@ -96,11 +96,11 @@ This dashboarding approach can be applied to mining for:
 4. **Employment Trends** – workforce structure, AI/cloud talent demand
 5. **Decision Dashboards** – real-time data for HR and executives
 
-✅ In short: the **Eduvos skills survey analysis** also maps directly to **mining workforce readiness and digital transformation**.
+ In short: the **Eduvos skills survey analysis** also maps directly to **mining workforce readiness and digital transformation**.
 
 ---
 
-## 📑 Report
+##  Report
 
 The full report (`report.docx` / `report.pdf`) includes:
 
@@ -111,7 +111,7 @@ The full report (`report.docx` / `report.pdf`) includes:
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * Eduvos LMS – Assignment dataset & guidance
 * Faculty of Information Technology
